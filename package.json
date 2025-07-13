@@ -1,0 +1,21 @@
+{
+  "name": "meshy-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@react-three/drei": "^9.56.13",
+    "@react-three/fiber": "^8.15.15",
+    "axios": "^1.6.8",
+    "lucide-react": "^0.267.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "three": "^0.160.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
